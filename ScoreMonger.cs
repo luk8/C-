@@ -1,4 +1,6 @@
-﻿using System;
+/* The program calculates the test scores*/
+
+using System;
 using static System.Console;
 
 class ScoreMonger
